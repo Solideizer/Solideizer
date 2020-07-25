@@ -19,6 +19,7 @@
 - 🌱 I’m currently working as a Development Intern at [Flamingo Game Studio](https://www.flamingo.gs/en/homepage/)
 
 - 💬 Talk to me about movies, memes and video games.
+
 <p align="left">
- <img src = "https://github-readme-stats.vercel.app/api?username=Solideizer&show_icons=true&theme=radical&line_height=25">
+ <img src = "https://github-readme-stats.vercel.app/api?username=Solideizer&show_icons=true&count_private=true&hide=contribs,issues&theme=radical&line_height=25">
 </p>
