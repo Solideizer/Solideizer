@@ -5,7 +5,7 @@
 ![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/Solideizer?style=for-the-badge ) 
 
 
- <img align="right" src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="400" />
+ <img align="right" src="https://github.com/Solideizer/Solideizer/blob/master/preview.gif" width="400" />
 
 
 - 💡  I'm a Computer Engineering Undergraduate at Istanbul University
