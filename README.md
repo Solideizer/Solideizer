@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bahadır-üçyıldız-741702126/)
 [<img src ="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](http://bahadirucyildiz.epizy.com/?i=1)
-![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/Solideizer?style=for-the-badge ) 
+![Visits Badge](https://badges.pufler.dev/visits/Solideizer?style=for-the-badge ) 
 
 
  <img align="right" src="https://github.com/Solideizer/Solideizer/blob/master/preview.gif" width="400" />
