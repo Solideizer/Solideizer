@@ -14,7 +14,7 @@
   Ragdoll Physics in my on-going Unity projects to create immersive
   and unique gameplay experiences.
 
-- 🌱 I’m currently working as Junior Game Developer at [Flamingo Game Studio](https://www.flamingo.gs/en/homepage/)
+- 🌱 I’m currently working as a Junior Game Developer at [Flamingo Game Studio](https://www.flamingo.gs/en/homepage/)
 
 - 💬 Talk to me about movies, memes and video games.
 
