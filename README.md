@@ -5,16 +5,13 @@
 
  <img align="right" src="https://github.com/Solideizer/Solideizer/blob/master/preview.gif" width="400" />
 
-
 - 💡  I'm a Computer Engineering Undergraduate at Istanbul University
 
-- 💻 I like developing video games using Unity.
+- 💻 I love developing video games using Unity.
 
-- ⚡ I'm experimenting with systems such as Procedural Generation and 
-  Ragdoll Physics in my on-going Unity projects to create immersive
-  and unique gameplay experiences.
+- ⚡ I'm experimenting with different gameplay mechanics in my on-going Unity projects to create immersive and unique experiences.
 
-- 🌱 I’m currently working as a Junior Game Developer at [Flamingo Game Studio](https://www.flamingo.gs/en/homepage/)
+- 🌱 I’m increasing my knowledge regarding software architecture design, "SOLID" design principles, C# coding standarts/naming conventions and varried design patterns in order to      improve my ability to write better designed and optimized code.
 
 - 💬 Talk to me about movies, memes and video games.
 
