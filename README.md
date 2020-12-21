@@ -7,11 +7,9 @@
 
 - 💡  I'm a Computer Engineering Undergraduate at Istanbul University
 
-- 💻 I love developing video games with Unity.
-
 - ⚡ I'm experimenting with different gameplay mechanics in my on-going Unity projects to create immersive and unique experiences.
 
-- 🌱 I’m increasing my knowledge regarding software architecture design, "SOLID" design principles, C# coding standarts/naming conventions and varried design patterns in order to      improve my ability to write better designed and optimized code.
+- 💻 I’m increasing my knowledge regarding software architecture design, SOLID design principles, C# coding standarts/naming conventions and varied design patterns in order to      improve my ability to write better designed and optimized code.
 
 - 💬 Talk to me about movies, memes and video games.
 
