@@ -5,13 +5,13 @@
 
  <img align="right" src="https://github.com/Solideizer/Solideizer/blob/master/preview.gif" width="450" />
 
-- 💡  I'm a Computer Engineering Undergraduate at Istanbul University
+- 🎓  I'm a Computer Engineering Undergraduate at Istanbul University
 
 - ⚡ I'm experimenting with different gameplay mechanics in my on-going Unity projects to create immersive and unique experiences.
 
 - 💻 I’m increasing my knowledge regarding software architecture design, SOLID design principles, C# coding standarts/naming conventions and varied design patterns in order to      improve my ability to write better designed and optimized code.
 
-- 💬 Talk to me about movies, memes and video games.
+- 💬 Check out my projects [here](https://solideizer.github.io./)
 
 <p align="left">
  <img src = "https://github-readme-stats.vercel.app/api?username=Solideizer&show_icons=true&count_private=true&hide=contribs,issues&theme=radical&line_height=25">
