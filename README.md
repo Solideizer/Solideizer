@@ -10,15 +10,13 @@
 
 - ⚡ I'm experimenting with different gameplay mechanics in my on-going projects to create immersive and unique experiences.
 
-- 💻 I’m increasing my knowledge regarding software architecture design, SOLID design principles, C# coding standarts/naming conventions and varied design patterns in order to      improve my ability to write better designed and optimized code.
+- 💻 I’m increasing my knowledge regarding software architecture design, SOLID design principles, 
+C# coding standarts/naming conventions and varied design patterns in order to 
+improve my ability to write better designed and optimized code.
 
 - 💬 Check out my projects [here](https://solideizer.github.io./)
 
 - 📋 Download my cv  [here](https://github.com/Solideizer/Solideizer/blob/master/BahadirUcyildizResume.pdf)
-
-<p align="left"> 
- <img src = "https://github-readme-stats.vercel.app/api?username=Solideizer&show_icons=true&count_private=true&hide=contribs,issues&theme=radical&line_height=25">
-</p>
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=churchill&font=default)
 
