@@ -4,9 +4,9 @@
 [<img src ="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://solideizer.github.io./)
 <img align="right" src="https://github.com/Solideizer/Solideizer/blob/master/preview.gif" width="460" />
 
-- 🎓 Computer Engineering (BSc) @ Istanbul University-Cerrahpasa
+- 🎓 Computer Engineering (BSc) ➡️ Istanbul University
 
-- 🎮 Junior Game Developer @ Midquest Games
+- 🎮 Junior Game Developer ➡️ Midquest Games
 
 - ⚡ I'm experimenting with different gameplay mechanics in my on-going projects to create immersive and unique experiences.
 
