@@ -15,6 +15,3 @@
 - 💬 Check out my projects [here](https://solideizer.github.io./)
 
 - 📋 Download my cv  [here](https://github.com/Solideizer/Solideizer/blob/master/BahadirUcyildizResume.pdf)
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=churchill&font=default)
-
