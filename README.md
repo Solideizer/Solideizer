@@ -1,4 +1,4 @@
-## 𝐇𝐞𝐥𝐥𝐨, I'm Bahadır ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## 𝐇𝐞𝐥𝐥𝐨, I'm Bahadır !
 [<img src ="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://solideizer.github.io./)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bahadır-üçyıldız-741702126/)
 
