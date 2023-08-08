@@ -4,7 +4,7 @@
 
 - 🎓 Computer Engineering (BSc) ➡️ Istanbul University
 
-- 🎮 Game Developer ➡️ Midquest Games
+- 🎮 Game Developer 
 
 - ⚡ I'm experimenting with different gameplay mechanics in my on-going projects to create immersive and unique experiences.
 
