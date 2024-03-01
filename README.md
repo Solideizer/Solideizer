@@ -12,7 +12,4 @@
 
 - 💬 Check out my projects [here](https://solideizer.github.io./)
 
-- 📋 Download my cv  [here](https://github.com/Solideizer/Solideizer/blob/master/BahadirUcyildizResume.pdf)
-
-
 <img align="center" src="https://github.com/Solideizer/Solideizer/blob/master/preview.gif" width="450" />
