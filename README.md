@@ -2,7 +2,7 @@
 [<img src ="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://solideizer.github.io./)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bahadır-üçyıldız-741702126/)
 
-- 🎓 Computer Engineering (BSc) ➡️ Istanbul University
+- 🎓 Computer Science (BSc) ➡️ Istanbul University
 
 - 🎮 Game Developer 
 
