@@ -5,10 +5,6 @@
 - 🎓 Computer Science (BSc) ➡️ Istanbul University
 
 - 🎮 Game Developer 
-
-- ⚡ I'm experimenting with different gameplay mechanics in my on-going projects to create immersive and unique experiences.
-
-- 💻 I’m increasing my knowledge regarding software architecture design, SOLID design principles, C# coding standarts/naming conventions and varied design patterns in order to   improve my ability to write better designed and optimized code.
   
 - 📝 Check out my cv [here](https://github.com/Solideizer/Solideizer/blob/master/Bahadır_Üçyıldız_-_Game_Developer.pdf)
   
